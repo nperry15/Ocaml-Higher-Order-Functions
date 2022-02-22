@@ -1,0 +1,18 @@
+2021-10-12T03:07:03+00:00 Nicholass-MacBook-Pro.local#01 I: Start test public:0:is_elem.
+2021-10-12T03:07:03+00:00 Nicholass-MacBook-Pro.local#01 I: Test public:0:is_elem is successful.
+2021-10-12T03:07:03+00:00 Nicholass-MacBook-Pro.local#01 I: End test public:0:is_elem.
+2021-10-12T03:07:03+00:00 Nicholass-MacBook-Pro.local#01 I: Start test public:2:count_occ.
+2021-10-12T03:07:03+00:00 Nicholass-MacBook-Pro.local#01 I: Test public:2:count_occ is successful.
+2021-10-12T03:07:03+00:00 Nicholass-MacBook-Pro.local#01 I: End test public:2:count_occ.
+2021-10-12T03:07:03+00:00 Nicholass-MacBook-Pro.local#01 I: Start test public:4:assoc_list.
+2021-10-12T03:07:03+00:00 Nicholass-MacBook-Pro.local#01 I: Test public:4:assoc_list is successful.
+2021-10-12T03:07:03+00:00 Nicholass-MacBook-Pro.local#01 I: End test public:4:assoc_list.
+2021-10-12T03:07:03+00:00 Nicholass-MacBook-Pro.local#01 I: Start test public:6:insert_and_max.
+2021-10-12T03:07:03+00:00 Nicholass-MacBook-Pro.local#01 I: Test public:6:insert_and_max is successful.
+2021-10-12T03:07:03+00:00 Nicholass-MacBook-Pro.local#01 I: End test public:6:insert_and_max.
+2021-10-12T03:07:03+00:00 Nicholass-MacBook-Pro.local#01 I: Start test public:8:int_tree_insert_and_size.
+2021-10-12T03:07:03+00:00 Nicholass-MacBook-Pro.local#01 I: Test public:8:int_tree_insert_and_size is successful.
+2021-10-12T03:07:03+00:00 Nicholass-MacBook-Pro.local#01 I: End test public:8:int_tree_insert_and_size.
+2021-10-12T03:07:03+00:00 Nicholass-MacBook-Pro.local#01 I: Start test public:10:var.
+2021-10-12T03:07:03+00:00 Nicholass-MacBook-Pro.local#01 I: Test public:10:var is successful.
+2021-10-12T03:07:03+00:00 Nicholass-MacBook-Pro.local#01 I: End test public:10:var.
